@@ -18,3 +18,8 @@
 ### CSS Changes
 
 * consolidated the classes benefit lead, brand, and cost to one group of CSS. 
+* Consolidated lines 94-107
+* consolidated lines 99-114
+* consolidated lines at 105
+* consolidated lines at 114
+* consolidated lines at 118
