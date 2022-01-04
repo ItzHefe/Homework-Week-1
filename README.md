@@ -24,4 +24,4 @@
 * consolidated lines at 114
 * consolidated lines at 118
 
-![alt text](/Homework-Week-1/assets/images/Capture-LiveWebPage.PNG)
+![Screen shot of the web page](/Homework-Week-1/assets/images/Capture-LiveWebPage.PNG)
